@@ -10,4 +10,5 @@ public class SlMpApplication {
 		SpringApplication.run(SlMpApplication.class, args);
 	}
 
+
 }
